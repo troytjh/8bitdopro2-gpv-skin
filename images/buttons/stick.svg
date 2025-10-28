@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="9.3454208mm"
+   height="9.4479532mm"
+   viewBox="0 0 9.3454208 9.4479535"
+   version="1.1"
+   id="svg2417"
+   sodipodi:docname="stick.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2419"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.4668128"
+     inkscape:cx="-28.782079"
+     inkscape:cy="95.670008"
+     inkscape:window-width="1399"
+     inkscape:window-height="960"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g2640"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2414" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-117.9209,-133.51813)">
+    <g
+       id="g2640">
+      <ellipse
+         style="fill:#2b2d2c;fill-opacity:1;fill-rule:evenodd;stroke:#494b4a;stroke-width:0.196709;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path22763"
+         cx="122.59361"
+         cy="138.24211"
+         rx="4.5743561"
+         ry="4.6256218"
+         inkscape:export-filename="stick.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+  </g>
+</svg>
