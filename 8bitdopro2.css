@@ -1,12 +1,12 @@
 .controller.custom {
-    background-image: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/base.svg);
-	background-size: 121px 101px;
-    height: 121px;
-    width: 101px;
+    background-image: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/base.svg);
+	background-size: 692px 758px;
+    height: 692px;
+    width: 758px;
 }
 
 .custom.disconnected {
-    background-image: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/base.svg);
+    background-image: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/base.svg);
 	background-size: 121px 101px;
     height: 121px;
     width: 101px;
@@ -16,13 +16,13 @@
     display: none;
 }
 
-/*.custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */ */
-/*    width: 556px;
+.custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
+    width: 556px;
     height: 119px;
     position: absolute;
     left: 101px;
-}*/
-/*
+}
+
 .custom .trigger {
     width:118px;
     height:119px;
@@ -39,7 +39,7 @@
 }
 
 .custom .trigger.left.pressed {
-    background: url(images/buttons/lt-pressed.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/lt-pressed.svg);
 }
 
 .custom .trigger.right {
@@ -48,7 +48,7 @@
 }
 
 .custom .trigger.right.pressed {
-    background: url(images/buttons/rt-pressed.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/rt-pressed.svg);
 }
 
 .custom .bumpers {
@@ -70,13 +70,13 @@
 }
 
 .custom .bumper.left {
-	background: url(images/buttons/lb-pressed.svg);
+	background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/lb-pressed.svg);
     float: left;
 }
 
 .custom .bumper.right {
     float: right;
-	background: url(images/buttons/rb-pressed.svg);
+	background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/rb-pressed.svg);
 }
 
 .custom .p0 {
@@ -108,13 +108,13 @@
 }
 
 .custom .back {
-    background: url(images/buttons/start-select.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/start-select.svg);
     width: 77px;
     height: 36px;
     opacity: 0;
 }
 .custom .start {
-    background: url(images/buttons/start-select.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/start-select.svg);
     width: 62px;
     height: 36px;
     opacity: 0;
@@ -140,57 +140,56 @@
 	top: 181px;
     left: 516px;
 }
-*/
-/*
+
 .custom .button {
     position: absolute;
     width: 50px;
     height: 50px;*/
     /* display: none; */
-/* } */
-/*
+}
+	
 .custom .button.pressed {
     opacity: 1;
 }
 
 .custom .a {
-    background: url(images/buttons/a.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/a.svg);
     top: 100px;
     left: 50px;
 }
 
 .custom .a.pressed {
-	background: url(images/buttons/a-pressed.svg);
+	background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/a-pressed.svg);
 }
 
 .custom .b {
-	background: url(images/buttons/b.svg);
+	background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/b.svg);
     top: 50px;
     right: -20px;
 }
 
 .custom .b.pressed {
-	background: url(images/buttons/b-pressed.svg);
+	background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/b-pressed.svg);
 }
 
 .custom .x {
-	background: url(images/buttons/x.svg);
+	background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/x.svg);
     top: 50px;
     left: 0px;
 }
 
 .custom .x.pressed {
-	background: url(images/buttons/x-pressed.svg);
+	background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/x-pressed.svg);
 }
 
 .custom .y {
-	background: url(images/buttons/y.svg);
+	background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/y.svg);
     top: 0px;
     left: 50px;
 }
 
 .custom .y.pressed {
-	background: url(images/buttons/y-pressed.svg);
+	background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/y-pressed.svg);
 }
 
 .custom .sticks {
@@ -203,13 +202,13 @@
 
 .custom .stick {
     position: absolute;
-    background: url(images/buttons/stick.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/stick.svg);
     height: 84px;
     width: 84px;
 }
 
 .custom .stick.pressed {
-    background: url(images/buttons/stick-pressed.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/stick-pressed.svg);
 }
 
 .custom .stick.left {
@@ -247,7 +246,7 @@
 }
 
 .custom .face.up.pressed {
-    background: url(images/buttons/up-pressed.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/up-pressed.svg);
 }
 
 .custom .face.down {
@@ -258,7 +257,7 @@
 }
 
 .custom .face.down.pressed {
-    background: url(images/buttons/down-pressed.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/down-pressed.svg);
 }
 
 .custom .face.left {
@@ -269,7 +268,7 @@
 }
 
 .custom .face.left.pressed {
-    background: url(images/buttons/left-pressed.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/left-pressed.svg);
 }
 
 .custom .face.right {
@@ -280,6 +279,5 @@
 }
 
 .custom .face.up.pressed {
-    background: url(images/buttons/right-pressed.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/buttons/right-pressed.svg);
 }
-*/
