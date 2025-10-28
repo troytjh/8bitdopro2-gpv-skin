@@ -18,8 +18,8 @@
     display: none;
 }
 
-/*.custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
-    width: 556px;
+/*.custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */ */
+/*    width: 556px;
     height: 119px;
     position: absolute;
     left: 101px;
