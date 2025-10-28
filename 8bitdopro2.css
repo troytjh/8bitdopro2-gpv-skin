@@ -6,7 +6,10 @@
 }
 
 .custom.disconnected {
-
+    background-image: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/base.svg);
+	background-size: 758px 692px;
+    height: 692px;
+    width: 758px;
 }
 /*
 .custom.disconnected div {
