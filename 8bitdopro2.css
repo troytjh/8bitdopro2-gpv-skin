@@ -5,20 +5,20 @@
 }
 
 .custom.disconnected {
-    background-image: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/disconnected.svg);
-}
 
+}
+/*
 .custom.disconnected div {
     display: none;
 }
-
+*/
 /*.custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */ */
 /*    width: 556px;
     height: 119px;
     position: absolute;
     left: 101px;
 }*/
-
+/*
 .custom .trigger {
     width:118px;
     height:119px;
@@ -136,14 +136,15 @@
 	top: 181px;
     left: 516px;
 }
-
+*/
+/*
 .custom .button {
     position: absolute;
     width: 50px;
-    height: 50px;
+    height: 50px;*/
     /* display: none; */
-}
-
+/* } */
+/*
 .custom .button.pressed {
     opacity: 1;
 }
@@ -277,3 +278,4 @@
 .custom .face.up.pressed {
     background: url(images/buttons/right-pressed.svg);
 }
+*/
