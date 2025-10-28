@@ -1,15 +1,15 @@
 .controller.custom {
     background-image: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/base.svg);
-	background-size: 692px 758px;
+	background-repeat: no-repeat;
+	background-size: 758px 692px;
     height: 692px;
     width: 758px;
+	margin-left: 0;
+    margin-top: 0;
 }
 
 .custom.disconnected {
-    background-image: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/base.svg);
-	background-size: 121px 101px;
-    height: 121px;
-    width: 101px;
+
 }
 
 .custom.disconnected div {
