@@ -1,11 +1,11 @@
 .controller.custom{
-    background-image: url(base.svg);
+    background-image: url(images/base.svg);
     height: 692px;
     width: 758px;
 }
 
 .custom.disconnected {
-    background-image: url(disconnected.svg);
+    background-image: url(images/disconnected.svg);
 }
 
 .custom.disconnected div {
@@ -22,7 +22,6 @@
 .custom .trigger {
     width:118px;
     height:119px;
-    background: url(trigger.svg);
     opacity: 1;
 }
 
@@ -35,9 +34,17 @@
     background-position: 0 0;
 }
 
+.custom .trigger.left.pressed {
+    background: url(images/buttons/lt-pressed.svg);
+}
+
 .custom .trigger.right {
     float: right;
     transform: rotateY(180deg);
+}
+
+.custom .trigger.right.pressed {
+    background: url(images/buttons/rt-pressed.svg);
 }
 
 .custom .bumpers {
@@ -51,7 +58,6 @@
 .custom .bumper {
     width: 124px;
     height: 53px;
-    background: url(bumper.svg);
     opacity: 0;
 }
 
@@ -60,13 +66,13 @@
 }
 
 .custom .bumper.left {
+	background: url(images/buttons/lb-pressed.svg);
     float: left;
 }
 
 .custom .bumper.right {
     float: right;
-    -webkit-transform: rotateY(180deg);
-    transform: rotateY(180deg);
+	background: url(images/buttons/rb-pressed.svg);
 }
 
 .custom .p0 {
@@ -98,13 +104,13 @@
 }
 
 .custom .back {
-    background: url(start-select.svg);
+    background: url(images/buttons/start-select.svg);
     width: 77px;
     height: 36px;
     opacity: 0;
 }
 .custom .start {
-    background: url(start-select.svg);
+    background: url(images/buttons/start-select.svg);
     width: 62px;
     height: 36px;
     opacity: 0;
@@ -133,39 +139,53 @@
 
 .custom .button {
     position: absolute;
-    background: url(buttons.svg);
     width: 50px;
     height: 50px;
     /* display: none; */
 }
 
 .custom .button.pressed {
-    background-position-y: -50px;
     opacity: 1;
 }
 
 .custom .a {
-    background-position: 0 0;
+    background: url(images/buttons/a.svg);
     top: 100px;
     left: 50px;
 }
 
+.custom .a.pressed {
+	background: url(images/buttons/a-pressed.svg);
+}
+
 .custom .b {
-    background-position: -50px 0;
+	background: url(images/buttons/b.svg);
     top: 50px;
     right: -20px;
 }
 
+.custom .b.pressed {
+	background: url(images/buttons/b-pressed.svg);
+}
+
 .custom .x {
-    background-position: -100px 0;
+	background: url(images/buttons/x.svg);
     top: 50px;
     left: 0px;
 }
 
+.custom .x.pressed {
+	background: url(images/buttons/x-pressed.svg);
+}
+
 .custom .y {
-    background-position: -150px 0;
+	background: url(images/buttons/y.svg);
     top: 0px;
     left: 50px;
+}
+
+.custom .y.pressed {
+	background: url(images/buttons/y-pressed.svg);
 }
 
 .custom .sticks {
@@ -178,14 +198,13 @@
 
 .custom .stick {
     position: absolute;
-    background: url(stick.svg);
-    background-position: 0px 0;
+    background: url(images/buttons/stick.svg);
     height: 84px;
     width: 84px;
 }
 
 .custom .stick.pressed {
-    background-position: -84px 0px;
+    background: url(images/buttons/stick-pressed.svg);
 }
 
 .custom .stick.left {
@@ -207,7 +226,6 @@
 }
 
 .custom .face {
-    background: url(dpad.svg);
     position: absolute;
     opacity: 0;
 }
@@ -217,33 +235,45 @@
 }
 
 .custom .face.up {
-    background-position: 0px 0px;
     left: 35px;
     top: 0px;
     width: 44px;
     height: 57px;
 }
 
+.custom .face.up.pressed {
+    background: url(images/buttons/up-pressed.svg);
+}
+
 .custom .face.down {
-    background-position: -44px 0px;
 	left: 35px;
     bottom: 0;
     width: 44px;
     height: 57px;
 }
 
+.custom .face.down.pressed {
+    background: url(images/buttons/down-pressed.svg);
+}
+
 .custom .face.left {
-    background-position: -88px 0px;
     width: 56px;
     height: 55px;
     top: 22px;
     left: 0;
 }
 
+.custom .face.left.pressed {
+    background: url(images/buttons/left-pressed.svg);
+}
+
 .custom .face.right {
-    background-position: -146px 0px;
     width: 56px;
     height: 55px;
     top: 22px;
     right: 0;
+}
+
+.custom .face.up.pressed {
+    background: url(images/buttons/right-pressed.svg);
 }
