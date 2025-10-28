@@ -5,6 +5,8 @@ https://stackoverflow.com/questions/40728554/resource-blocked-due-to-mime-type-m
 
 https://github.com/e7d/gamepad-viewer
 
+https://github.com/AlexanderSkrock/GamePadViewer
+
 https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/8bitdopro2-2.css
 
 https://gamepadviewer.com/?p=1&css=https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/8bitdopro2.css
