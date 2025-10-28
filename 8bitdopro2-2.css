@@ -1,7 +1,6 @@
-<link type="text/css" href="8bitdopro2-2.css">
-
 .controller.custom{
     background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/orig/base.svg);
+	background-repeat: no-repeat;
 	background-size: 758px 692px;
     height: 692px;
     width: 758px;
@@ -56,7 +55,7 @@
 .custom .bumper {
     width: 124px;
     height: 53px;
-    background: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/orig/bumper.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/orig/bumper.svg);
     opacity: 0;
 }
 
@@ -103,13 +102,13 @@
 }
 
 .custom .back {
-    background: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/orig/start-select.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/orig/start-select.svg);
     width: 77px;
     height: 36px;
     opacity: 0;
 }
 .custom .start {
-    background: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/orig/start-select.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/orig/start-select.svg);
     width: 62px;
     height: 36px;
     opacity: 0;
@@ -138,7 +137,7 @@
 
 .custom .button {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/orig/buttons.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/orig/buttons.svg);
     width: 50px;
     height: 50px;
     /* display: none; */
@@ -183,7 +182,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/orig/stick.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/orig/stick.svg);
     background-position: 0px 0;
     height: 84px;
     width: 84px;
@@ -212,7 +211,7 @@
 }
 
 .custom .face {
-    background: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/orig/dpad.svg);
+    background: url(https://cdn.jsdelivr.net/gh/troytjh/8bitdopro2-gpv-skin/images/orig/dpad.svg);
     position: absolute;
     opacity: 0;
 }
