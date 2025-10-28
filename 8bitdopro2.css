@@ -1,7 +1,13 @@
-.controller.custom{
-    background-image: url(images/base.svg);
-    height: 692px;
-    width: 758px;
+.controller.custom {
+  background-size: 100vw auto;
+  background-position: left top;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(purple.svg);
 }
 
 .custom.disconnected {
@@ -12,12 +18,12 @@
     display: none;
 }
 
-.custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
+/*.custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
     width: 556px;
     height: 119px;
     position: absolute;
     left: 101px;
-}
+}*/
 
 .custom .trigger {
     width:118px;
