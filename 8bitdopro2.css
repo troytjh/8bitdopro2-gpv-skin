@@ -7,11 +7,11 @@
 }
 
 .controller.custom:not(.disconnected) {
-  background-image: url(purple.svg);
+  background-image: url(https://github.com/troytjh/8bitdopro2-gpv-skin/blob/main/images/base.svg);
 }
 
 .custom.disconnected {
-    background-image: url(images/disconnected.svg);
+    background-image: url(https://github.com/troytjh/8bitdopro2-gpv-skin/blob/main/images/disconnected.svg);
 }
 
 .custom.disconnected div {
