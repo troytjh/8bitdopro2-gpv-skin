@@ -1,7 +1,10 @@
 .controller.custom{
     background: url(https://raw.githubusercontent.com/troytjh/8bitdopro2-gpv-skin/refs/heads/main/images/orig/base.svg);
+	background-size: 758px 692px;
     height: 692px;
     width: 758px;
+	margin-left: 0;
+    margin-top: 0;
 }
 
 .custom.disconnected {
