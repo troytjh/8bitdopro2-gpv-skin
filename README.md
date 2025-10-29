@@ -14,5 +14,5 @@ https://gamepadviewer.com/?p=1&css=https://rawcdn.githack.com/troytjh/8bitdopro2
 Chromium mapping is seriously broken...
 
 ## Credit/Acknowledgment
-Thank you JotaGo for making the image assets for the pro 2 and the custom style sheet this projects based on.
+Thank you JotaGo for making the image assets for the pro 2 and the custom style sheet this project's based on.
 - [8bitdo-pro2-skin-gamepadviewer](https://gist.github.com/JotaGo/84e9c728a259d4b40e9fe969ae1aec00)
